@@ -1,5 +1,3 @@
-project01.Rmd and project01.html contain the scripts and output respectively.
-
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
